@@ -9,7 +9,7 @@
 	- **Calculate the Time of a ride**
 	- **Calculate the Price of a ride**
 - **ASCII graphic in terminal**
-- **Menu navigation**
+- **Menu navigation with keyboard input**
 
 ## Technologies:
 - JAVA
