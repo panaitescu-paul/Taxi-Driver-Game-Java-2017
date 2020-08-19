@@ -21,9 +21,9 @@
 
 <p align="center">
   <hr>
-  <img width="40%" height="40%" text-align="center" src="https://github.com/panaitescu-paul/Taxi-Driver-Game-Java-2017/blob/master/screenshots/1.png">
+  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/Taxi-Driver-Game-Java-2017/blob/master/screenshots/1.png">
   <hr>
-  <img width="40%" height="40%" text-align="center" src="https://github.com/panaitescu-paul/Taxi-Driver-Game-Java-2017/blob/master/screenshots/2.png">
+  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/Taxi-Driver-Game-Java-2017/blob/master/screenshots/2.png">
   <hr>
-  <img width="40%" height="40%" text-align="center" src="https://github.com/panaitescu-paul/Taxi-Driver-Game-Java-2017/blob/master/screenshots/3.png">
+  <img width="50%" height="50%" text-align="center" src="https://github.com/panaitescu-paul/Taxi-Driver-Game-Java-2017/blob/master/screenshots/3.png">
 </p>
