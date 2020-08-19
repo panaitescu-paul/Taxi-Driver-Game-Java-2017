@@ -4,11 +4,11 @@
 ## Features:
 - **Game Logic**
 	- **Start, Pause, or Stop a Taxi**
-	- Ask for the bill
-	- Take a free ride
+	- **Ask for the bill**
+	- **Take a free ride**
 	- **Calculate the Time of a ride**
 	- **Calculate the Price of a ride**
-- **ASCII graphic** in terminal
+- **ASCII graphic in terminal**
 - **Menu navigation**
 
 ## Technologies:
@@ -20,6 +20,7 @@
 ## Preview:
 
 <p align="center">
+  <hr>
   <img width="40%" height="40%" text-align="center" src="https://github.com/panaitescu-paul/Taxi-Driver-Game-Java-2017/blob/master/screenshots/1.png">
   <hr>
   <img width="40%" height="40%" text-align="center" src="https://github.com/panaitescu-paul/Taxi-Driver-Game-Java-2017/blob/master/screenshots/2.png">
